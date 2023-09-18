@@ -263,3 +263,35 @@ Received Import Request.
 Start importing Assets/Scripts/TCP.cs using Guid(c03ec55f205a7443a882d198cc5844c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd229377c8e5559247cee9f5246d22d04') in 0.001697 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 15577.776702 seconds.
+  path: Assets/Scripts/TCP.cs
+  artifactKey: Guid(c03ec55f205a7443a882d198cc5844c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/TCP.cs using Guid(c03ec55f205a7443a882d198cc5844c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8858339ee7890ebcb62843047943202') in 0.000429 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 11.430725 seconds.
+  path: Assets/Scripts/Queue.cs
+  artifactKey: Guid(e1ecc516d2e1844178d364c04c7826aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Queue.cs using Guid(e1ecc516d2e1844178d364c04c7826aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9245122aa0a23f2a6ad6ba3f3fb93c89') in 0.000594 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 719.498693 seconds.
+  path: Assets/Scripts/TCP.cs
+  artifactKey: Guid(c03ec55f205a7443a882d198cc5844c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/TCP.cs using Guid(c03ec55f205a7443a882d198cc5844c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47ceefb896c977efb03e979cf4b0f65a') in 0.000490 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.356678 seconds.
+  path: Assets/Scripts/Queue.cs
+  artifactKey: Guid(e1ecc516d2e1844178d364c04c7826aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Queue.cs using Guid(e1ecc516d2e1844178d364c04c7826aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef17788b007577d6cd01b86c3ddac4ce') in 0.000469 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
