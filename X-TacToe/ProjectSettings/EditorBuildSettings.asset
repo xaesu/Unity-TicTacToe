@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/INTRO.unity
+    guid: 069d26d47a0d4ed49a5aaffbf83942b7
+  - enabled: 1
+    path: Assets/Scenes/X-TacToe.unity
+    guid: eeec36f9d24f4f046b348fdaa65983de
   m_configObjects: {}

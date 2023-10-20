@@ -223,7 +223,7 @@ public class TCP : MonoBehaviour
             // 클라이언트 소켓을 통해 데이터를 수신하고 수신된 데이터의 크기 반환
             int iSize = sClient.Receive(data, data.Length, SocketFlags.None);
 
-            // 수신된 데이터가 없을 경우 연결 해제
+            // 수신된 데이터가 없을 경우 연결 해제
             if (iSize == 0)
             {
                 Disconnect();
@@ -232,7 +232,7 @@ public class TCP : MonoBehaviour
             else if (iSize > 0)
             {
                 // 수신 데이터 큐에 추가
-                qReceive.Dequeue(ref data, iSize);
+                qReceive.Enqueue(data, iSize);
             }
         }
     }
